@@ -1,0 +1,4 @@
+first you need to install all modules that are used 
+step 1- simply open terminal and cd over to that file and type " npm i " and that it. it will download all the requirement to run the app.js 
+now you can see the "node_modules" folder 
+and now head over to the terminal and type node app.js and it will run this website on localhost:3000
